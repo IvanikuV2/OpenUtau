@@ -26,13 +26,13 @@ It is **strongly recommend** to go through a few Wiki pages before use:
 ## How to Contribute
 
 Tried OpenUtau and not satisfied? Don't just walk away! You could help shape it:
-- Report issues on [Discord](https://discord.gg/UfpMnqMmEM) or Github.
-- Suggest features on Discord or Github.
+- Report issues on [Discord](https://discord.gg/UfpMnqMmEM) or [Github](https://github.com/stakira/OpenUtau/issues).
+- Suggest features on [Discord](https://discord.gg/UfpMnqMmEM) or [Github](https://github.com/stakira/OpenUtau/issues).
 - Add or update translations on Github.
 
 Have coding skills? Don't just fork and keep it to yourself!
 - Contribute fixes through Pull Requests.
-- See the roadmap on [Trello](https://trello.com/b/93ANoCIV/openutau) and discuss it on Discord.
+- See the roadmap on [Trello](https://trello.com/b/93ANoCIV/openutau) and discuss it on [Discord](https://discord.gg/UfpMnqMmEM).
 
 ## Plugin Development
 
